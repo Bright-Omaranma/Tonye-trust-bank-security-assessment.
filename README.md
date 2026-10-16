@@ -1,6 +1,5 @@
 ---
 title: "Security Assessment Plan for Tonye Trust Bank Ltd."
-project_id: "CSF-001"
 course: "Cybersecurity Fundamentals"
 student: "Bright Madubuochi Omranma"
 cohort: "February 2026"
@@ -11,17 +10,13 @@ CYBERSECURITY FUNDAMENTALS
 SECURITY ASSESSMENT PLAN FOR
 TONYE TRUST BANK LTD.
 
-Project ID: CSF-001
-
 Student Name: Bright Madubuochi Omranma
-
-Student ID: [Add your student ID]
 
 Cohort: February 2026
 
 Instructor: Nyekwere TamunoTonye Tom
 
-Submission Date: [Add submission date]
+Submission Date: 10-16-2026
 
 Individual Project | Introductory Cybersecurity
 
